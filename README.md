@@ -1,4 +1,4 @@
-# AWS Cloud Practicioners training 
+# AWS Cloud Practicioner Training 
 
 AWS Cloud Practicioners knowledgebase of the basics on the joourney towards certification. 
 
